@@ -1,4 +1,4 @@
-# EdgeQuant Agent: High-Conviction Hedge Fund PM
+# EdgeQuant Agent
 
 ## Description
 **EdgeQuant Agent** is an autonomous AI trading system architected as a **High-Conviction Hedge Fund Portfolio Manager**. Built for the **CLEF 2026 Financial AI Challenge**, it transcends standard "HOLD-biased" agents by identifying dominant structural drivers through a combination of **FinMA-7B** (Finance-specialized LLM) and a sophisticated **Retrieval-Augmented Generation (RAG)** memory system.
